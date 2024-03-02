@@ -6,6 +6,7 @@
 
   <a href="https://github.com/coelhoalexandre/projeto-js-aluraplay/blob/main/LICENSE" target="_blank"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a> <img src="https://img.shields.io/badge/Completo-lightgreen.svg" alt="Completo">
 
+
 </div>
 
 ## Sumário
@@ -14,45 +15,33 @@
 - [Objetivos do Projeto](#objetivos-do-projeto)
 - [Funcionalidades do Projeto](#funcionalidades-do-projeto)
 - [Tecnologias Utilizadas](#tecnolgias-utilizadas)
-- [Layouts](#layouts)
-  - [Desktop Layout](#desktop-layout)
-  - [Tablet Layout](#tablet-layout)
-  - [Mobile Layout](#mobile-layout)
-- [Adaptações](#adaptações)
 - [Autor](#autor)
 
 ## Sobre o Projeto
 
-
+Projeto que foi necessario aprender a criar uma API Fake com JSON-Server e ser capaz de consumir seus dados. [**Mônica Hillman**](https://github.com/MonicaHillman) no curso [JavaScript: criando requisições](https://cursos.alura.com.br/course/javascript-criando-requisicoes) ensina o que era necessario para a realização desse projeto.
 
 ## Objetivos do Projeto
 
-
+- Saber como mockar uma API;
+- Aprender a realizar requições GET e construir requisições POST;
+- Tratar possiveis erros.
 
 ## Funcionalidades do Projeto
 
-
+- Para o funcionamento do projeto ele busca conexão com "http://localhost:3000/videos", caso você use o json-server e tenha essa url, o projeto irá consumir essa API.
+- Caso isso seja possivel, no pagina para enviar video, após "Enviar" ele tentara integrar os dados passados dentro do JSON.
 
 ## Tecnolgias Utilizadas
 
-
-
-## Layouts
-
-### Desktop Layout
-
-### Tablet Layout
-
-### Mobile Layout
-
-## Adaptações
-
+1. HTML
+2. CSS
+3. JS
+4. JSON-Server
+   
 ## Autor
 
-- Nome(s), redes e forma de contato. 
-- Talvez um breve resumo sobre cada um.
-
-Meu nome é **Alexandre Coelho**, sou autor deste ReadMe e estudante de Desenvolvimento Web. [Falar sobre meu papel no projeto, seu eu fiz tudo ou só modifiquei.
+Meu nome é **Alexandre Coelho**, sou autor deste ReadMe e estudante de Desenvolvimento Web. Realizei esse projeto por meio das instruções de [**Mônica Hillman**](https://github.com/MonicaHillman). 
 
 Logo abaixo estão os meus principais links, fique a vontade de acessar o que mais lhe interessar:
 
